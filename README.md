@@ -25,5 +25,5 @@ You can also contact us directly by email from the **About** window in *Meeting 
 
 ## Documentation
 
-[Documentation](https://help-msa.publictalksoftware.co.uk/msa-overview.html)
+[Documentation](https://www.publictalksoftware.co.uk/help-msa/msa-overview.html)
 
